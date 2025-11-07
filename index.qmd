@@ -36,32 +36,33 @@ Fragen nach Erläuterungen und Beschreibungen werden mithilfe von Fachbegriffen 
 
 Alle Rechnungen werden folgendermaßen angegangen:
 
-#. Einteilung der Variablen nach Bekannt und Unbekannt
-#. Aufstellung von Gleichungen zur Berechnung von Zwischenergebnissen oder dem Hauptergebnis. Diese Gleichungen beinhalten die **Variablen** mit dem entsprechenden Buchstaben, der in der Einführung mitgeteilt worden ist. Sollte es eine Abweichung geben, dann sollte diese Kenntlich gemacht werden.
-#. Einsetzen der physikalischen Größen in die im vorherigen Punkt aufgestellten Gleichung; dass heisst, alle Größen bestehen aus Zahlenwert und einer Einheit
+#. Du stellst **immer** eine Ausgangsgleichung mit Variablen zur Berechnung des gewünschten Ergebnisses auf. Diese Gleichung beinhalten die **Variablen** mit dem entsprechenden Buchstaben, der in der Einführung mitgeteilt worden ist. Gibt es eine Abweichung, dann wird diese kenntlich gemacht.
+#. In dieser Gleichung markierst Du jeweils die bekannten und unbekannten Variablen.
+#. Falls notwendig, stellst Du die Gleichung anschliessend algebraisch um, so dass die beabsichtigte Berechnung klar wird. Hierbei werden **keine Zahlen oder Größen verwendet**.
+#. Einsetzen der physikalischen Größen bestehend aus Zahlenwert und physikalischer Einheit in die Gleichung
 #. Berechnung des Ergebnisses unter Berücksichtigung der Einheiten; dass heisst, die Rechnung ist nicht nur numerisch sondern auch bezüglich der Einheiten korrekt.
 
-Für das Nichteinhalten einer dieser Punkte gibt es jeweils -20% Punktabzug.
+Es gibt jeweils einen Punkt für jeden dieser Schritte. Die einfachsten Aufgaben bringen maximal vier Punkte ein, da es noch nicht mal eine Umstellung der Ausgangsgleichung gibt. Es wird aber auch aufwändigere Aufgaben mit mehr Punkten geben. Die Gesamtnote 15 gibt es nur bei Erreichen der maximalen Punktanzahl.
 
 ## Anforderung
 
 Es gibt drei Schwierigkeitsstufen bei den Aufgaben.
 
 - Stufe I ist auf E Kurs Niveau angesiedelt. 
-- Stufe II ist auf E oder A Niveau angesiedelt.
+- Stufe II ist auf E oder A Niveau angesiedelt; manchmal dazwischen.
 - Stufe III ist komplett auf A Kurs Niveau angesiedelt.
 
-Da es nur noch eine interne Notenskala gibt, solltest Du nicht nur Aufgaben auf Stufe I und II lösen. Das würde für einen Notenbereich bis ungefähr 9 Punkten führen. Um Dich darüber einzuordnen, solltest Du mit Regelmässigkeit Aufgaben aus Stufe II und II angehen.
+Da es nur noch eine Notenskala für die undifferenzierte Biologie gibt, solltest Du nicht nur Aufgaben auf Stufe I und II lösen. Um Dich darüber einzuordnen, solltest Du mit Regelmässigkeit Aufgaben aus Stufe II und II angehen.
 
 ### Berechnung der Gesamtnote
 
 Deine Gesamtnote setzt sich aus folgenden Elementen zusammen:
 
-- Schriftliche Mitarbeit oder Bearbeitung von Aufgaben: fließt zu 50% oder 1/2 in die Zeugnisnote ein
-    + Wenn benotet, dann trägt jede einzelne Aufgabennote zur schriftlichen Durchschnittsnote der Mitarbeit bei
+- Schriftliche Mitarbeit oder Bearbeitung von Aufgaben: fließt zu mindestens 50% in die Zeugnisnote ein
+    + Dabei berechnet sich die Gesamtnote für eine Aufgabenblock zu einer Einführung aus allen Aufgaben und deren Lösungen.
     + Wenn nicht benotet, dann erfolgt eine **00 Minderleistung** bei Nichteinreichen der Aufgaben 
-- Mündliche Mitarbeit: regelmäßige Beiträge, heisst mindestens einmal pro Fachunterrichtseinheit, fließt zu 25% oder 1/4 in die Zeugnisnote ein
-- Lernstandsüberprüfungen: fließt zu 25% oder 1/4 in die Zeugnisnote ein
+- Mündliche Mitarbeit: regelmäßige Beiträge, heisst mindestens einmal pro Fachunterrichtseinheit, fließt zu höchstens 25% oder 1/4 in die Zeugnisnote ein
+- Lernstandsüberprüfungen: fließt höchstens zu 25% oder 1/4 in die Zeugnisnote ein. Es besteht die Überlegung, LSÜs komplett zu ersetzen 
 
 Die aktuelle Notenberechnung in Biologie Stufe 10 ist
 
