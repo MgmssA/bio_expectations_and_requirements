@@ -48,19 +48,17 @@ Es gibt jeweils einen Punkt für jeden dieser Schritte. Die einfachsten Aufgaben
 
 Es gibt drei Schwierigkeitsstufen bei den Aufgaben.
 
-- Stufe I ist auf E Kurs Niveau angesiedelt. 
-- Stufe II ist auf E oder A Niveau angesiedelt; manchmal dazwischen.
+- Stufe I ist auf G Kurs Niveau angesiedelt. 
+- Stufe II ist auf G oder E Niveau angesiedelt.
 - Stufe III ist komplett auf A Kurs Niveau angesiedelt.
 
-Da es nur noch eine Notenskala für die undifferenzierte Biologie gibt, solltest Du nicht nur Aufgaben auf Stufe I und II lösen. Um Dich darüber einzuordnen, solltest Du mit Regelmässigkeit Aufgaben aus Stufe II und II angehen.
+Da es nur noch eine interne Notenskala gibt, solltest Du nicht nur Aufgaben auf Stufe I und II lösen. Die Aufgaben der Stufe I werden mit **1** multipliziert, Aufgaben der Stufe II mit **2** und Aufgaben der Stufe III mit einem Faktor **3**. Um in den Aufgaben gut abzuschneiden, solltest Du mit Regelmässigkeit Aufgaben aus Stufe II und manchmal III angehen.
 
 ### Berechnung der Gesamtnote
 
 Deine Gesamtnote setzt sich aus folgenden Elementen zusammen:
 
-- Schriftliche Mitarbeit oder Bearbeitung von Aufgaben: fließt zu mindestens 50% in die Zeugnisnote ein
-    + Dabei berechnet sich die Gesamtnote für eine Aufgabenblock zu einer Einführung aus allen Aufgaben und deren Lösungen.
-    + Wenn nicht benotet, dann erfolgt eine **00 Minderleistung** bei Nichteinreichen der Aufgaben 
+- Schriftliche Mitarbeit oder Bearbeitung von Aufgaben: fließt zu mindestens 50% in die Zeugnisnote ein. Dabei berechnet sich die Gesamtnote für eine Aufgabenblock zu einer Einführung aus allen Aufgaben und deren Lösungen. Gleichgültig ob benotet oder nicht, eine **00 Minderleistung** erfolgt immer bei Nichteinreichen der Aufgaben 
 - Mündliche Mitarbeit: regelmäßige Beiträge, heisst mindestens einmal pro Fachunterrichtseinheit, fließt zu höchstens 25% oder 1/4 in die Zeugnisnote ein
 - Lernstandsüberprüfungen: fließt höchstens zu 25% oder 1/4 in die Zeugnisnote ein. Es besteht die Überlegung, LSÜs komplett zu ersetzen 
 
