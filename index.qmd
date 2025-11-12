@@ -37,7 +37,7 @@ Fragen nach Erläuterungen und Beschreibungen werden mithilfe von Fachbegriffen 
 Alle Rechnungen werden folgendermaßen angegangen:
 
 #. Du stellst **immer** eine Ausgangsgleichung mit **Variablen** zur Berechnung des gewünschten Ergebnisses auf. Die Variablen verwenden bevorzugt die Buchstaben, die in der Einführung mitgeteilt worden ist. Gibt es eine Abweichung, dann wird diese kenntlich gemacht.
-#. In dieser Ausgangsgleichung markierst Du jeweils die bekannten und unbekannten Variablen.
+#. In dieser Ausgangsgleichung markierst Du die unbekannten Variablen mit einem Fragezeichen.
 #. Falls notwendig, stellst Du die Gleichung algebraisch so um, dass die beabsichtigte Berechnung klar wird. Bei diesem Schritt werden **keine Zahlen oder physikalische Größen verwendet**, damit die beabsichtigte Berechnung klar wird.
 #. Einsetzen der physikalischen Größen bestehend aus Zahlenwert und physikalischer Einheit in die Gleichung
 #. Berechnung des Ergebnisses unter Berücksichtigung der Einheiten; dass heisst, die Rechnung ist nicht nur numerisch sondern auch bezüglich der Einheiten korrekt.
