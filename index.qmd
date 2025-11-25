@@ -41,8 +41,9 @@ Alle Rechnungen werden folgendermaßen angegangen:
 #. Falls notwendig, stellst Du die Gleichung algebraisch so um, dass die beabsichtigte Berechnung klar wird. Bei diesem Schritt werden **keine Zahlen oder physikalische Größen verwendet**, damit die beabsichtigte Berechnung klar wird.
 #. Einsetzen der physikalischen Größen bestehend aus Zahlenwert und physikalischer Einheit in die Gleichung
 #. Berechnung des Ergebnisses unter Berücksichtigung der Einheiten; dass heisst, die Rechnung ist nicht nur numerisch sondern auch bezüglich der Einheiten korrekt.
+#. Antwortsatz: es wird ein Antwortsatz in korrektem Deutsch verfasst, der unter Berücksichtigung der Fachsprache das Ergebnis präsentiert.
 
-Es gibt jeweils einen Punkt für jeden dieser Schritte. Die einfachsten Aufgaben bringen maximal vier Punkte ein, da es noch nicht mal eine Umstellung der Ausgangsgleichung gibt. Es wird aber auch aufwändigere Aufgaben mit mehr Punkten geben. Die Gesamtnote 15 gibt es nur bei Erreichen der maximalen Punktanzahl.
+Es gibt jeweils Punkte für jeden dieser Schritte. Die einfachsten Aufgaben bringen maximal vier Punkte ein, da es noch nicht mal eine Umstellung der Ausgangsgleichung gibt. Es wird aber auch aufwändigere Aufgaben mit mehr Punkten geben. 
 
 ## Anforderung
 
